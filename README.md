@@ -1,2 +1,3 @@
 # Documentation de mon projet de formation
-Juste pour décrire le projet
+Voila une description du projet du jour 1
+Juste pour décrire le projet du jour 1
